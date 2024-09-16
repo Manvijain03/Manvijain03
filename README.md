@@ -1,4 +1,5 @@
-## Hi there I am Manvi👋
+## Hi I am Manvi👋
+## I wish to share my work here and hopefully it will be helpful to you
 
 <!--
 **Manvijain03/Manvijain03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
