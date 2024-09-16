@@ -1,6 +1,9 @@
-## Hi I am Manvi👋
-## I wish to share my work here and hopefully it will be helpful to you
+## Hi there! I'm Manvi a BTech IT student with a passion for technology and a curiosity for solving complex problems.  
 
+
+Currently, I'm working on [Current Project or Area of Interest], where I'm [Brief Description of What You're Doing]. When I'm not coding, you can find me [Personal Touch, e.g., exploring new tech trends, hiking in the mountains, or contributing to open source projects].
+
+Feel free to check out my repositories to see my latest projects, and don't hesitate to connect or reach out if you'd like to collaborate or just chat about tech!
 <!--
 **Manvijain03/Manvijain03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
